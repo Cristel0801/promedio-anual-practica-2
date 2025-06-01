@@ -1,0 +1,1 @@
+# Esta practica trata sobre un codigo hecho en VS Code con python que probée un codigo hecho para calcular el promedio anual de un estudiante y darle a saber si pasó el año, tiene que hacer convocatoria o no aprovó el año
